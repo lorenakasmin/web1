@@ -1,7 +1,7 @@
 # Desenvolvimento Web I
 
 ## Tópicos:
-- HTML
-- CSS
+- HTML 5
+- CSS 3
 - Javascript
 
