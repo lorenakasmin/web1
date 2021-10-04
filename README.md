@@ -1,4 +1,5 @@
 # Desenvolvimento Web I
+__Semestre__: 2021/2
 
 ## Aulas - slides
 - [Aula 01](slides/tads-web-aula-01.pdf)
@@ -13,3 +14,7 @@
 - CSS 3
 - Javascript
 
+
+---
+
+0fe8c776-7510-4d20-aa2f-37e414b4bb0c
