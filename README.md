@@ -6,6 +6,7 @@
 - [Aula 03 - tabela](slides/tads-web-aula-03-tabelas.pdf)
 - [Aula 03 - css](slides/tads-web-aula-03-css.pdf)
 - [Aula 03 - rowspan](slides/tads-web-aula-03-rowspan.pdf)
+- [Aula 05 - layouts](slides/tads-web-aula-05-layout.pdf)
 
 ## Tópicos:
 - HTML 5
